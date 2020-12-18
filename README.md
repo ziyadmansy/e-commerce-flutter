@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 It was made for practice using firebase and flutter framework
 
-## Getting Started
+## Features
 - Firebase Authentication
 - Provider State Management
 - Firebase realtime Database
