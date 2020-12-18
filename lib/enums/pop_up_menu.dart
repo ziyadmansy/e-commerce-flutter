@@ -1,0 +1,4 @@
+enum PopUpMenuSelection {
+  OnlyFavourites,
+  All,
+}
